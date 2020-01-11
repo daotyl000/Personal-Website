@@ -5,8 +5,41 @@ body{
 
 h1{
   font-size: 40px;
+  font-family: Apple Chancery;
+}
+
+h2{
+  font-size: 30px;
 }
 
 p{
+  font-size: 20px;
+}
+
+iframe{
+  width: 500px;
+  height: 400px;
+}
+
+video{
+  width: 200px;
+  height: 400px;
+}
+
+ul{
+  text-align: center;
+}
+
+li{
+  text-align: center;
+}
+
+.pokemon{
+  height: 300px;
+  width: 500px;
+}
+
+.link{
+  font-style: italic;
   font-size: 20px;
 }
